@@ -1,0 +1,5 @@
+//BLUFOR
+		class WEST
+        {
+               
+		};
